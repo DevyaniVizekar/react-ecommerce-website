@@ -1,71 +1,110 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# 🛍️ React E-Commerce Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern e-commerce web application built using **React.js** that delivers a clean and interactive shopping experience. The project demonstrates component-based architecture, client-side routing, reusable UI components, and state management fundamentals.
 
-## Available Scripts
+> **Status:** 🚧 In Progress – New features and improvements are actively being added.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Modern Landing Page
+* Product Listing
+* Product Details Page
+* Shopping Cart
+* Category-based Navigation
+* Reusable React Components
+* Clean UI Design
+* React Router Navigation
+* Organized Folder Structure
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* React Router DOM
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📂 Project Structure
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+src/
+│
+├── Components/
+├── Context/
+├── Pages/
+├── Assets/
+├── App.js
+└── index.js
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📌 Current Progress
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+✔ Home Page
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+✔ Product Listing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+✔ Product Details
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+✔ Shopping Cart UI
 
-## Learn More
+✔ Category Navigation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🚀 Upcoming Features
 
-### Code Splitting
+* Responsive Design
+* User Authentication (Login & Signup)
+* Payment Gateway Integration
+* Wishlist
+* Search Functionality
+* Backend Integration
+* Order History
+* Product Reviews
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 💻 Installation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+git clone https://github.com/DevyaniVizekar/react-ecommerce-website.git
 
-### Making a Progressive Web App
+cd react-ecommerce-website
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+npm install
 
-### Advanced Configuration
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## 🎯 Learning Outcomes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+While building this project, I strengthened my understanding of:
 
-### `npm run build` fails to minify
+* React Component Architecture
+* React Router
+* State Management
+* Props
+* JSX
+* Folder Organization
+* Reusable Components
+* Frontend Development Best Practices
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 📌 Future Scope
+
+This project will continue evolving with responsive layouts, authentication, backend APIs, and payment integration to simulate a production-ready e-commerce application.
+
+---
+
+⭐ If you found this project interesting, feel free to star the repository.
